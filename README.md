@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 😁 I'm Junior Web Development
 
 ![hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczk0Z2U0MmFvNmpoM21nbGVuZWhmYm8wNGNnMHM3dWUzY3QzM3UxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S2IfEQqgWc0AH4r6Al/giphy.gif)
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript,mysql,vscode,windows&theme=light&perline=4)](https://skillicons.dev)
+
+## Contact With Me
+![https://instagram.com/rifkiann](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
